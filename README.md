@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paavani019
-- 👀 I’m interested in Web development!
-- 🌱 I’m currently learning competitive programming, Web Development and Kubernetes and Cloud Native Technology!
+- 👀 Interested in Web development!
+- 🌱 Currently learning competitive programming, Web Development and Kubernetes and Cloud Native Technology!
 - 📫 How to reach me ... my personal gmail id is 📧 paavanikaruturi@gmail
 
 <!---
